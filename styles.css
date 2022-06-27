@@ -1,1 +1,32 @@
 /* Write your CSS here! */
+
+p {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-right: 100px;
+    margin-left: 100px;
+    background-color: yellow;
+}
+
+div {
+    padding-top: 20px;
+    padding-right: 15px;
+    padding-bottom: 20px;
+    padding-left: 15px;
+}
+
+.intro {
+    background-color: royalblue;
+}
+
+#mainHeading {
+    color: red;
+}
+
+#testP {
+    color: white;
+}
+
+.funParagraph {
+    background-color: Green;
+}
