@@ -1,1 +1,37 @@
 /* Write your CSS here! */
+
+body {
+    margin: 8px;
+    display: block;
+}
+
+p {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+div {
+    padding-top: 20px;
+    padding-right: 15px;
+    padding-bottom: 20px;
+    padding-left: 15px;
+    background-color: yellow;
+}
+
+.intro {
+    background-color: royalblue;
+}
+
+#mainHeading {
+    color: red;
+}
+
+.funParagraph {
+    color: Green;
+}
+
+#trip {
+    color: blue;
+}
